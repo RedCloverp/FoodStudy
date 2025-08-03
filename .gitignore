@@ -1,0 +1,94 @@
+# dependencies
+/node_modules/
+/.pnp
+.pnp.js
+/.qodo/
+
+# testing
+/coverage
+/.nyc_output
+
+# production
+/build
+/dist
+/.next
+/out
+/.nuxt
+/.output
+/.vercel
+
+# misc
+.DS_Store
+.env
+.env.*
+.npmrc
+.yarnrc
+*.local
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Optional: Storybook build
+/storybook-static
+
+# Optional: SvelteKit
+/.svelte-kit
+
+# Optional: Vite
+/.vite
+
+# Optional: Parcel
+.cache/
+
+# Optional: Mac
+.AppleDouble
+.LSOverride
+
+# Optional: Windows
+ehthumbs.db
+
+# Optional: Linux
+*~
+
+# Optional: Next.js
+.next/
+
+# Optional: Nuxt.js
+.nuxt/
+
+# Optional: Gatsby
+.cache/
+public
+
+# Optional: Vuepress
+.vuepress/dist
+
+# Optional: Quasar
+/dist/spa
+/dist/ssr
+/dist/pwa
+/dist/bex
+
+# Optional: Netlify
+.netlify/
+
+# Optional: Firebase
+.firebase/
+
+# Optional: VSCode settings
+.history/
